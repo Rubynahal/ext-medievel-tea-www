@@ -118,7 +118,7 @@ function App() {
             whileHover={{ scale: 1.05 }}
           >
             <span className="logo-icon">茶</span>
-            <span className="logo-text">Jade Leaf Tea Co.</span>
+            <span className="logo-text">Medieval Chinese Tea</span>
           </motion.div>
           <div className="nav-links">
             <a href="#products">Our Teas</a>
@@ -359,9 +359,9 @@ function App() {
         <div className="footer-content">
           <div className="footer-brand">
             <span className="logo-icon">茶</span>
-            <span>Jade Leaf Tea Co.</span>
+            <span>Medieval Chinese Tea</span>
           </div>
-          <p>© 2024 Jade Leaf Tea Co. All rights reserved.</p>
+          <p>© 2024 Medieval Chinese Tea. All rights reserved.</p>
           <p className="mock-notice">This is a mock website for educational purposes.</p>
         </div>
       </footer>
