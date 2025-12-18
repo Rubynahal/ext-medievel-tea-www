@@ -363,6 +363,10 @@ function App() {
           </div>
           <p>© 2024 Medieval Chinese Tea. All rights reserved.</p>
           <p className="mock-notice">This is a mock website for educational purposes.</p>
+          <div className="powered-by">
+            <span>Powered by</span>
+            <img src="/Loop8 logo-full.png" alt="Loop8" className="loop8-logo" />
+          </div>
         </div>
       </footer>
 

@@ -475,6 +475,26 @@
   font-style: italic;
 }
 
+.powered-by {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.powered-by span {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.loop8-logo {
+  height: 24px;
+  width: auto;
+}
+
 /* Cart Sidebar */
 .cart-overlay {
   position: fixed;
